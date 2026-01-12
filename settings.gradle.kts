@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PemrogramanBergerak"
+rootProject.name = "ModulProject"
 include(":app")
  
